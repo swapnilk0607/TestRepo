@@ -1,6 +1,4 @@
 Master commit
-<<<<<<< HEAD
 Changes made in Master Branch
-=======
 Add one line hotfix
->>>>>>> Add one line in hotfix
+Add one line in hotfix
