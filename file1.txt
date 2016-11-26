@@ -1,0 +1,6 @@
+Master commit
+Changes made in Master Branch
+Add one line hotfix
+modified in test1 branch
+modified in test2 branch
+Add one line in hotfix
